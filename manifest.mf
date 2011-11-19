@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: cz.cvut.fit.gephi.snametrics
+OpenIDE-Module-Localizing-Bundle: cz/cvut/fit/gephi/snametrics/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1.3
+
