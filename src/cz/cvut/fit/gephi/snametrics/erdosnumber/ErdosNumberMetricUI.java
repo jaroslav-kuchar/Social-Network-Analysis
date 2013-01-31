@@ -68,4 +68,9 @@ public class ErdosNumberMetricUI implements StatisticsUI {
         return 800;
 
     }
+
+    @Override
+    public String getShortDescription() {
+        return "Computes Erdös Number";
+    }
 }

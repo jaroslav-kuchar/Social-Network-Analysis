@@ -73,4 +73,9 @@ public class ClusteringMetricUI implements StatisticsUI {
     public int getPosition() {
         return 800;
     }
+
+    @Override
+    public String getShortDescription() {
+        return "Computes Clustering Coefficient";
+    }
 }
